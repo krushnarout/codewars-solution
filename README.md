@@ -1,8 +1,8 @@
 
 <p style="left">
-  <img src="" alt="Codewars Logo">
+  <img src="https://github.com/krushnarout90/Codewars-Solution/assets/129386740/cd135917-c226-4050-be30-c97aae352b0" alt="Codewars Logo">
   <a href="https://www.codewars.com/users/krushnarout">
-    <img src="" alt="Codewars" />
+    <img src="https://github.com/krushnarout90/Codewars-Solution/assets/129386740/3a75bd35-34b0-4d09-af3a-8330f8f66df9" alt="Codewars" />
   </a>
 
    > <p> Let's become allies on Codewars and level up together! 🤝 Follow me, and I'll gladly return the favor! 🥷</p>
