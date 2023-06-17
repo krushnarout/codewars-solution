@@ -23,6 +23,7 @@ In this repository, you will find a collection of Codewars challenges that I hav
 The challenges in this repository are organized based on their kyu ratings. Here is an overview of the folder structure:
 
 - [8kyu Rating](./8kyu) -  This folder contains Codewars challenges with a 8kyu rating.
+- [7kyu Rating](./7kyu) -  This folder contains Codewars challenges with a 7kyu rating.
 
  
 
