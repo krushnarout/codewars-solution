@@ -2,7 +2,7 @@
 <p style="left">
   <img src="https://github.com/krushnarout90/Codewars-Solution/assets/129386740/fcc72649-c4fa-43a5-a81f-1ad5233eb25c" alt="Codewars Logo">
   <a href="https://www.codewars.com/users/krushnarout">
-    <img src="https://github.com/krushnarout/Codewars-Solution/assets/129386740/cc0b3d92-36ec-4e03-bf13-afb94c57bde2" alt="Codewars" />
+    <img src="https://github.com/krushnarout/Codewars-Solution/assets/129386740/a5dd254f-09c7-423a-9706-3bff2af65586" alt="Codewars" />
   </a>
 
    > <p> Let's become allies on Codewars and level up together! 🤝 Follow me, and I'll gladly return the favor! 🥷</p>
