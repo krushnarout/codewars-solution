@@ -6,17 +6,20 @@
 // n >= 10	90
 // You can use if..else or ternary operator to complete it.
 
-// When you have finished the work, click "Run Tests" to see if your code is working properly.
-
-// In the end, click "Submit" to submit your code and pass this kata.
-
 // My solution
+
+// Using if..else
 function saleHotdogs(n) {
-    if (n < 5) {
-      return n * 100;
-    } else if (n >= 5 && n < 10) {
-      return n * 95;
-    } else {
-      return n * 90;
-    }
+  if (n < 5) {
+    return n * 100;
+  } else if (n >= 5 && n < 10) {
+    return n * 95;
+  } else {
+    return n * 90;
   }
+}
+
+// Using ternary operator
+function saleHotdogs(n) {
+  return n < 5 ? n * 100 : n >= 5 && n < 10 ? n * 95 : n * 90;
+}
