@@ -12,10 +12,11 @@
 
 // My solution
 function noBoringZeros(n) {
+    if (n === 0) return 0;
 
-    let nStr = n.toString();
-  
-    let result = nStr.replace(/0+$/, '');
-  
-    return parseInt(result, 10);
-  }
+    while (n % 10 === 0) {
+        n = Math.floor(n / 10);
+    }
+
+    return n;
+}
